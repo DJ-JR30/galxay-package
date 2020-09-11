@@ -1,0 +1,15 @@
+{
+  "name": "devdex-galaxy",
+  "version": "1.0.2",
+  "description": "This npm package does have NSFW content continue at your own risk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevDex",
+  "license": "ISC",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "safe-buffer": "^5.2.1"
+  }
+}
